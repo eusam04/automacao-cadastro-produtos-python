@@ -45,3 +45,46 @@ automacao-cadastro-produtos-python/
 ├── produtos.csv      # Base de dados com os produtos
 ├── teste.py          # Arquivo de testes
 └── README.md
+```
+---
+
+## ▶️ Como Executar
+
+## Clone este repositório:
+
+git clone https://github.com/eusam04/automacao-cadastro-produtos-python.git
+
+## Instale as bibliotecas necessárias:
+
+pip install pyautogui pandas
+
+## Execute o arquivo principal:
+
+python codigo.py
+
+---
+
+## 📌 Funcionalidades
+
+- ✔️ Abertura automática do sistema
+- ✔️ Login automático
+- ✔️ Leitura da base de dados
+- ✔️ Cadastro automático de produtos
+- ✔️ Repetição do processo para todos os itens da planilha
+
+## 💡 Aprendizados
+
+Durante o desenvolvimento deste projeto, foram praticados conceitos de:
+- automação de tarefas
+- manipulação de dados com CSV
+- lógica de programação
+- utilização da biblioteca PyAutoGUI
+- integração entre Python e planilhas
+
+---
+
+## 👩‍💻 Autora
+
+Feito por Samires do Carmo dos Santos 💙
+
+
